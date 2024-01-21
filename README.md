@@ -1,5 +1,5 @@
 
-## `Follow these instructions to run the API successfully`
+## `TypeScript based Node js template to up and running your backend project quickly`
 
 ## Step 1: Install dependencies
 
